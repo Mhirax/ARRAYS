@@ -1,5 +1,9 @@
 // Introducing ARRAYS 
+Arrays is our very first data structure. a data structure which is a collection of data 
+How do we make array in JavaScript? It is simple: we use square brackets 
 
+
+let colors = [];
 
 // Arrays Random access
 
