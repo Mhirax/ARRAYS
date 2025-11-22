@@ -7,8 +7,15 @@ let colors = ['red', 'orange', 'yellow'];
 //An array of numbers
 let lottoNums = [19,22,56,12,51];
 //A mixed array
-let stuff = [true,
-    68, 'cat', nulll;]
+let stuff = [true,68, 'cat', nulll;]
+
+//indexed arrays in javascript
+let colors = ['red', 'orange', 'yellow'];
+
+colors.length;
+
+
+
 
 
 
